@@ -56,3 +56,12 @@ DOMAIN-SUFFIX,gvt3.com,Google
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Google
 DOMAIN-KEYWORD,google,Google
 DOMAIN-KEYWORD,blogspot,Google
+# > YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,GlobalMedia
+USER-AGENT,YouTubeMusic*,GlobalMedia
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,GlobalMedia
+USER-AGENT,YouTube*,GlobalMedia
+DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
+DOMAIN-SUFFIX,youtube.com,GlobalMedia
+DOMAIN,youtubei.googleapis.com,GlobalMedia
